@@ -1,2 +1,2 @@
 # practice-git
-this is fro practice purpose
+this is for practice purpose
